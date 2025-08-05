@@ -5,7 +5,7 @@ export const services: Service[] = [
     id: '1',
     name: 'Wedding Photography',
     description: 'Complete wedding coverage from engagement to reception',
-    price: 'Starting at $2,500',
+    price: 'Starting at ₹50,000',
     features: [
       '8-10 hours of coverage',
       '500+ edited high-resolution photos',
@@ -20,7 +20,7 @@ export const services: Service[] = [
     id: '2',
     name: 'Portrait Sessions',
     description: 'Professional portraits for individuals and families',
-    price: 'Starting at $350',
+    price: 'Starting at ₹20,000',
     features: [
       '1-2 hour session',
       'Multiple outfit changes',
@@ -34,7 +34,7 @@ export const services: Service[] = [
     id: '3',
     name: 'Event Photography',
     description: 'Corporate events, parties, and special occasions',
-    price: 'Starting at $800',
+    price: 'Starting at ₹30,000',
     features: [
       'Full event coverage',
       'Professional editing',
@@ -48,7 +48,7 @@ export const services: Service[] = [
     id: '4',
     name: 'Corporate Headshots',
     description: 'Professional headshots for businesses and LinkedIn',
-    price: 'Starting at $200',
+    price: 'Starting at ₹15,000',
     features: [
       'Studio or on-location',
       'Multiple poses and expressions',
