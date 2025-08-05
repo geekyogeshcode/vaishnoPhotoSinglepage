@@ -44,7 +44,7 @@ const Services: React.FC = () => {
               {service.popular && (
                 <div className="absolute -top-4 left-1/2 transform -translate-x-1/2">
                   <div className="bg-amber-500 text-white px-4 py-2 rounded-full text-sm font-semibold flex items-center gap-1">
-                    <Star className="h-4 w-4" />
+                    <Star className="h-4 w-6" />
                     Most Popular
                   </div>
                 </div>
